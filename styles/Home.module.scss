@@ -1,0 +1,16 @@
+@import './variable';
+
+.appPageContainer {
+  background-color: #fff;
+  min-height: $height;
+  margin-top: 55px;
+}
+
+.appSpecificContent {
+  min-height: $height;
+  background: lightblue;
+}
+
+.appMainContent {
+  overflow-y: auto;
+}
