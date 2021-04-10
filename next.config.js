@@ -1,6 +1,6 @@
 module.exports = {
     images: {
       loader: 'imgix',
-      path: 'http://localhost:3001/',
+      path: 'https://e91in.sse.codesandbox.io/',
     },
   }
